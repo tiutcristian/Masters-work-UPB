@@ -5,7 +5,7 @@ This repository contains coursework and project work from the Financial Computin
 - [Banking Software Design](https://github.com/tiutcristian/Masters-work-UPB)
 - [Data Mining for Computational Finance](https://github.com/tiutcristian/Masters-work-UPB)
 - [Introduction into Financial Market Analysis](https://github.com/tiutcristian/Masters-work-UPB)
-- [Startup Engineering](https://github.com/tiutcristian/Masters-work-UPB)
+- [Startup Engineering](https://github.com/tiutcristian/StartupEngineering)
 - [Research](https://github.com/tiutcristian/Masters-work-UPB)
 
 ## Semester 2
